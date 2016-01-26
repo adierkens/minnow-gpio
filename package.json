@@ -1,0 +1,26 @@
+{
+  "name": "minnow-gpio",
+  "version": "1.0.0",
+  "description": "A GPIO helper library for the minnowboard max",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adierkens/minnow-gpio.git"
+  },
+  "keywords": [
+    "minnowboard",
+    "max",
+    "gpio",
+    "io",
+    "i2c"
+  ],
+  "author": "Adam Dierkens <adam@dierkens.com> (adamdierkens.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adierkens/minnow-gpio/issues"
+  },
+  "homepage": "https://github.com/adierkens/minnow-gpio#readme"
+}
