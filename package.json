@@ -2,7 +2,7 @@
   "name": "minnow-gpio",
   "version": "1.0.0",
   "description": "A GPIO helper library for the minnowboard max",
-  "main": "index.js",
+  "main": "minnow-gpio.js",
   "scripts": {
     "test": "mocha ./tests/**/*.js"
   },
@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/adierkens/minnow-gpio/issues"
   },
-  "homepage": "https://github.com/adierkens/minnow-gpio#readme"
+  "homepage": "https://github.com/adierkens/minnow-gpio#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.4.1"
+  },
+  "dependencies": {
+    "lodash": "^4.0.1"
+  }
 }
