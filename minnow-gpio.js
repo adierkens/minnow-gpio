@@ -32,9 +32,6 @@ process.on('SIGTERM', function() {
 });
 
 var cons = function(error, stdout, stderr) {
-  console.log(error);
-  console.log(stdout);
-  console.log(stderr);
 };
 
 var exportedPins = [];
@@ -42,6 +39,7 @@ var exportedPins = [];
 module.exports = {
   pin: pins,
   direction: direction,
+  value: value,
   setup: function(pin, direction) {
     if (typeof pin === "number") {
       if (exportedPins.indexOf(pin) === -1) {
