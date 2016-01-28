@@ -1,6 +1,6 @@
 {
   "name": "minnow-gpio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A GPIO helper library for the minnowboard max",
   "main": "minnow-gpio.js",
   "scripts": {

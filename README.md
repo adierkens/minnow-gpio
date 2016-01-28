@@ -5,7 +5,7 @@
 
 # Overview
 
-*Note*: Probably need to run as root as it needs access to `sysfs` (`/sys/class/gpio`) 
+**Note**: Probably need to run as root as it needs access to `sysfs` (`/sys/class/gpio`) 
 
 ```javascript
 
