@@ -61,6 +61,5 @@ module.exports = {
     }
   },
   get: function(pin, callback) {
-  
   }
 };
