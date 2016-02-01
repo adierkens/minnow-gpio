@@ -1,7 +1,7 @@
 # minnow-gpio
 > A GPIO helper library for the minnowboard max
 
-[![Build Status](https://travis-ci.org/adierkens/minnow-gpio.svg?branch=master)](https://travis-ci.org/adierkens/minnow-gpio)
+[![Build Status](https://travis-ci.org/adierkens/minnow-gpio.svg?branch=master)](https://travis-ci.org/adierkens/minnow-gpio) [![npm version](https://badge.fury.io/js/minnow-gpio.svg)](https://badge.fury.io/js/minnow-gpio)
 
 # Overview
 
